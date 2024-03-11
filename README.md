@@ -1,2 +1,4 @@
-# favorite-desserts
-Information about people's favorite desserts
+# Favorite desserts
+
+- Julien, pancakes
+
